@@ -1,6 +1,8 @@
 # SmartHome Bot - 1st Prize Winner of Microsoft Botathan 1.0
 
 ![Micorosft-Botathan1.0-Winner](bot.jpg)
+
+Link to Competition Page: https://devpost.com/software/smart-homebot
 # Inspiration
 Urban areas are increasing worldwide and more than 70% of the world population will be located in urban centers by 2050. This growth leads to an increase in number, and density of buildings. It is also interesting to note that people spend about 87% of their time indoors. In 2014, buildings consume more than 70% of the total electricity consumption in United states. This significant share demonstrates the importance of using automation strategies that result in more energy efficient operation of the service systems in buildings (e.g., lighting systems, appliances, and HVAC).
 
