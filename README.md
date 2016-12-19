@@ -17,7 +17,7 @@ We are planning to extend are project to include more control capabilities, such
 
 *Modernist is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/modernist), or even [use it today](#usage).*
 
-![Thumbnail of modernist](thumbnail.png)
+![Thumbnail of modernist](bot.jpg)
 
 ## Usage
 
